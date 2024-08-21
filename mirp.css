@@ -1,0 +1,10 @@
+p.inrel-post {
+  padding: 1rem !important;
+  border-radius: 10px !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+span.inrel-post-label {
+  font-weight: 600 !important;
+}
